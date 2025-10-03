@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# title: Pages preview
+A simple page preview
